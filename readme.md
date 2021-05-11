@@ -1,6 +1,6 @@
-<!-- fetch API to get random users -->
+**_ fetch API to get random users _**
 
-<!-- Array Methods -->
+**_ Array Methods _**
 
 \*\*\* Array.forEach() \*\*\*
 
